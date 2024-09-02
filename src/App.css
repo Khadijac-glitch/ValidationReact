@@ -1,0 +1,13 @@
+ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  gap: 2;
+}
+a{
+  text-decoration: none;
+}
+nav{
+  padding: 10px;
+  border-bottom: 1px solid;
+}
