@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ValidationReact/static/css/main.e6c13ad2.css",
+    "main.js": "/ValidationReact/static/js/main.5867aca5.js",
+    "static/js/453.c349fb76.chunk.js": "/ValidationReact/static/js/453.c349fb76.chunk.js",
+    "index.html": "/ValidationReact/index.html",
+    "main.e6c13ad2.css.map": "/ValidationReact/static/css/main.e6c13ad2.css.map",
+    "main.5867aca5.js.map": "/ValidationReact/static/js/main.5867aca5.js.map",
+    "453.c349fb76.chunk.js.map": "/ValidationReact/static/js/453.c349fb76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5867aca5.js"
+  ]
+}
